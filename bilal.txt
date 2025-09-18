@@ -1,1 +1,1 @@
-
+LOGONSERVER=\\SONA
